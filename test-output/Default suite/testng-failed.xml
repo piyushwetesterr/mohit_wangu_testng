@@ -5,9 +5,9 @@
     <classes>
       <class name="Wetesterr.Wetesterr_Framework.OrangeHRM_Assign_Leave_Module">
         <methods>
+          <include name="Assign_Leave"/>
           <include name="launch_Browser"/>
           <include name="closeBrowser"/>
-          <include name="Assign_Leaves"/>
         </methods>
       </class> <!-- Wetesterr.Wetesterr_Framework.OrangeHRM_Assign_Leave_Module -->
     </classes>

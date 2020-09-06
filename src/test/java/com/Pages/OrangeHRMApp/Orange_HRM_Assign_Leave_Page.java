@@ -19,10 +19,6 @@ public class Orange_HRM_Assign_Leave_Page extends BaseClass {
 
 	public WebDriver driver;
 
-//	public Orange_HRM_Assign_Leave_Page(WebDriver driver) {
-//		PageFactory.initElements(driver, this);
-//	}
-
 	public Orange_HRM_Assign_Leave_Page(WebDriver ldriver) {
 		driver = ldriver;
 		PageFactory.initElements(ldriver, this);
